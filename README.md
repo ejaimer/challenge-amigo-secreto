@@ -1,18 +1,43 @@
-<h1># challenge-amigo-secreto</h1>
+# challenge-amigo-secreto</h1>
 Implementacion challenge amigo secreto - Alura
-- 🚧 Estado del proyecto : En construcción 🚧 
+
 ![amigo-secreto](https://github.com/user-attachments/assets/22086209-b77b-4b9b-b7a5-2162d1169b3c)
-##Indice
+## Indice
 * [Titulo e imagen de portada](#Titulo-e-imagen-de-portada)
 * [Insignias](#insignias)
 * [Indice](#indice)
 * [Descripcion del proyecto](#descripcion-del-proyecto)
 * [Estado del proyecto](#estado-del-proyecto)
-* [Caracteristicas de la aplicacion y demostracion](#Caracteristicas-de-la-aplicacion-y-demostracion)
+* [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
 * [Acceso al proyecto](#Acceso-al-proyecto)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Personas Contribuyentes](#Personas-contribuyentes)
-* [Personas-Desarroladores del Proyecto](#Personas-desarroladores)
+* [Personas-Desarrolladores del Proyecto](#Personas-desarrolladores)
 * [Licencias](#Licencias)
 * [Conclusion](#Conclusion)
+
+## Descripcion del proyecto
+Proyecto challenge "Amigo Secreto" del curso principiante en programacion - ALURA . Este proyecto permite 
+demostrar lo aprendido en el curso de principiante en programacion a traves de un pequeño  programa escrito en java script .
+
+## Estado del proyecto
+🚧 Proyecto en connstruccion 🚧
+
+## 🔨 Funcionalidades del proyecto
+- `Funcionalidad 1`: El programa permite ingresar una cantidad de amigos
+- `Funcionalidad 2`: El programa permite sortear de forma aleatorea a tu amigo secreto
+- `Funcionalidad 3`: El prohgrama solo permitira ingresar nombres validos , es decir no nulos.
+## 🔗Acceso al proyecto 
+Si deseas puedes acceder al proyecto a traves del siguinete enlace:
+
+## ✔️ Tecnologias utilizadas
+- Java Script
+- HTML
+
+## Personas-Desarrolladores del proyecto
+| [<img src="https://avatars.githubusercontent.com/u/70885445?s=400&u=6cbe5aa76688201740b9ae2cafbf789ab55bc533&v=4" width=115><br><sub>Edward Jaime Ricra</sub>](https://github.com/ejaimer) |
+| :---: | 
+
+## Conclusiones
+
 
