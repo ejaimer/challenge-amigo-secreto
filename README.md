@@ -24,9 +24,11 @@ demostrar lo aprendido en el curso de principiante en programacion a traves de u
 🚧 Proyecto en connstruccion 🚧
 
 ## 🔨 Funcionalidades del proyecto
-- `Funcionalidad 1`: El programa permite ingresar una cantidad de amigos
-- `Funcionalidad 2`: El programa permite sortear de forma aleatorea a tu amigo secreto
-- `Funcionalidad 3`: El prohgrama solo permitira ingresar nombres validos , es decir no nulos.
+- `Funcionalidad 1`: El programa permite ingresar una lista de amigos de uno en uno.
+- `Funcionalidad 2`: El programa solo permitirá ingresar solo nombres validos , es decir no nulos y a la vez un nombre que no se haya ingresado anteriormente.
+- `Funcionalidad 3`: El programa permite visualizar la lista de nombres en pantalla.
+- `Funcionalidad 3`: Al hacer click en el boton "Sortear amigo" El programa permite sortear de forma pseudo aleatorea a un amigo secreto y sera mostrado en pantalla.
+- 
 ## 🔗Acceso al proyecto 
 Si deseas puedes acceder al proyecto a traves del siguinete enlace:
 
