@@ -21,14 +21,15 @@ Proyecto challenge "Amigo Secreto" del curso principiante en programacion - ALUR
 demostrar lo aprendido en el curso de principiante en programacion a traves de un pequeño  programa escrito en java script .
 
 ## Estado del proyecto
-🚧 Proyecto en connstruccion 🚧
+Culminado
 
 ## 🔨 Funcionalidades del proyecto
 - `Funcionalidad 1`: El programa permite ingresar una lista de amigos de uno en uno.
 - `Funcionalidad 2`: El programa solo permitirá ingresar solo nombres validos , es decir no nulos y a la vez un nombre que no se haya ingresado anteriormente.
 - `Funcionalidad 3`: El programa permite visualizar la lista de nombres en pantalla.
-- `Funcionalidad 3`: Al hacer click en el boton "Sortear amigo" El programa permite sortear de forma pseudo aleatorea a un amigo secreto y sera mostrado en pantalla.
-- 
+- `Funcionalidad 4`: Al hacer click en el boton "Sortear amigo" El programa permite sortear de forma pseudo aleatorea a un amigo secreto el cual sera mostrado en pantalla. El amigo sorteado saldra de la lista de amigos.Se mostrara en pantalla la lista actual de amigos a sortear
+- `Funcionalidad 5`: Se permite agregar nuevos amigos para ser sorteados a  la lista actual.
+- `Funcionalidad 6`: Se muestra una alerta cuando hay menos de 2 amigos a sortear.
 ## 🔗Acceso al proyecto 
 Si deseas puedes acceder al proyecto a traves del siguinete enlace:
 
@@ -41,5 +42,5 @@ Si deseas puedes acceder al proyecto a traves del siguinete enlace:
 | :---: | 
 
 ## Conclusiones
-
+Se  agreago funcionalidades adicionales a lo solicitado como mostrar la lista actual en pantalla. 
 
