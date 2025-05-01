@@ -1,4 +1,4 @@
-# challenge-amigo-secreto</h1>
+<h1 align="center"> challenge-amigo-secreto</h1>
 Implementacion challenge amigo secreto - Alura
 
 ![amigo-secreto](https://github.com/user-attachments/assets/22086209-b77b-4b9b-b7a5-2162d1169b3c)
